@@ -1,5 +1,5 @@
 # Overview
----
+
 This repository contains basic info on the goals and findings of Team Sibyl.
 If you're new, start here.
 
@@ -21,4 +21,4 @@ If you are neither of those, you probably shouldn't be here, though if you have 
 All of our progress is tracked through the Github issue tracker.
 We use Zenhub boards to help in keeping track of our issues and our progress.
 
-See the guide [here](ISSUES.md).
+See the guide [here](PROGRESS.md).
