@@ -2,7 +2,7 @@
 This page discusses the process for tracking our progress through issues.
 
 ## Rationale
-Having a pysical log of everything that we do can help us in quite a few ways:
+Having a physical log of everything that we do can help us in quite a few ways:
 1. It makes it easy to communicate our current progress, roadblocks, and successes to _anyone_. This also makes it much easier make good reports for our faculty advisers.
 2. It makes our progress visible, and thus it keeps us accountable for our progress(or lack thereof).
 3. It minimizes the need for communication between team members.
