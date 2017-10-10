@@ -6,10 +6,10 @@ If you're new or unsure of what you should be doing, you're in the right place.
 ## About us
 Team Sibyl is an ad-hoc research group operating under the Cloud Computing and Big Data center in PES University.
 
-Our focus is on binary analysis techniques, specifically with ways to automatically understand their function.
+Our focus is on binary analysis techniques, specifically on ways to automatically understand their function.
 
 ## Contributing
-If you are a member of the team, you should:
+If you are a member of the team (or wish to be one), you should:
 1. Apply to this GitHub organization, if you are not already a member(contact one of the members for an invite).
 2. Go through the fuzzing-research repo, and understand all of our prior research.
 The angr paper is of particular importance.
